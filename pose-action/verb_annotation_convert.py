@@ -13,6 +13,7 @@ import copy
 # import pylab as plt
 from scipy import io
 
+
 anno_file = '/vision/u/liyues/dataset/rgb/hico/hico_20150920/anno.mat'
 anno = io.loadmat(anno_file)
 
